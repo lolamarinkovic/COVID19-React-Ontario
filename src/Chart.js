@@ -256,7 +256,8 @@ const data = [
     {cases: 712, date: '10-16-2020'},
     {cases: 805, date: '10-17-2020'},
     {cases: 658, date: '10-18-2020'},
-    {cases: 704, date: '10-19-2020'}
+    {cases: 704, date: '10-19-2020'},
+    {cases: 821, date: '10-20-2020'}
 ]
 
 class Chart extends React.Component {
