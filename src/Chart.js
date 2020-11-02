@@ -16,7 +16,7 @@ class Chart extends React.Component {
                         <YAxis />
                         <Tooltip />
                         <Legend payload={[{id: 'cases', value: 'Number of cases', type: 'square', color: '#2e86c1'}]}/>
-                        <Line name="Cases:" type="monotone" dataKey="cases" stroke="#2e86c1" />
+                        <Line name="Cases" type="monotone" dataKey="cases" stroke="#2e86c1" />
                     </LineChart>
                 </ResponsiveContainer>
 
