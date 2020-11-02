@@ -21,7 +21,7 @@ class Chart extends React.Component {
                 </ResponsiveContainer>
 
                 <ResponsiveContainer width="80%" height={500}>
-                    <LineChart data={testingData} margin={{top: 50}} >
+                    <LineChart data={testingData} margin={{top: 50, right: 50, left: 20, bottom: 5}} >
                        <CartesianGrid strokeDasharray="3 3" /> 
                        <XAxis dataKey="date" />
                        <YAxis />
@@ -30,9 +30,6 @@ class Chart extends React.Component {
                        <Line type="monotone" dataKey="positivity" stroke="#B81D13" />
                     </LineChart>
                 </ResponsiveContainer>
-
-                
-
             </div>
         );
     }
