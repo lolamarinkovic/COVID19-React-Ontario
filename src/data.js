@@ -1,4 +1,4 @@
-export const data = [
+export const caseData = [
     {cases: 1, date: '01-30-2020'},
     {cases: 0, date: '01-31-2020'},
     {cases: 0, date: '02-03-2020'},
