@@ -6,5 +6,6 @@ export const testingData = [
     {date: '11-05-2020', cases: 998, tests: 35754, positivity: 2.79},
     {date: '11-06-2020', cases: 1003, tests: 41882, positivity: 2.38},
     {date: '11-07-2020', cases: 1132, tests: 39165, positivity: 2.89},
-    {date: '11-08-2020', cases: 1328, tests: 37577, positivity: 3.53}
+    {date: '11-08-2020', cases: 1328, tests: 37577, positivity: 3.53},
+    {date: '11-09-2020', cases: 1242, tests: 28401, positivity: 4.37}
 ]
