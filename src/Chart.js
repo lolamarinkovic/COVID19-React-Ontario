@@ -9,7 +9,7 @@ class Chart extends React.Component {
     render() {
         return (
             <div>
-                <ResponsiveContainer width="80%" height={500}>
+                <ResponsiveContainer width="100%" height={500}>
                     <LineChart data={caseData} margin={{top: 50, right: 50, left: 20, bottom: 5}}>
                         <CartesianGrid strokeDasharray="3 3" />
                         <XAxis dataKey="date" />
@@ -20,7 +20,7 @@ class Chart extends React.Component {
                     </LineChart>
                 </ResponsiveContainer>
 
-                <ResponsiveContainer width="80%" height={500}>
+                <ResponsiveContainer width="100%" height={500}>
                     <LineChart data={testingData} margin={{top: 50, right: 50, left: 20, bottom: 5}}>
                        <CartesianGrid strokeDasharray="3 3" /> 
                        <XAxis dataKey="date" />
@@ -31,7 +31,7 @@ class Chart extends React.Component {
                     </LineChart>
                 </ResponsiveContainer>
 
-                <ResponsiveContainer width="80%" height={500}>
+                <ResponsiveContainer width="100%" height={500}>
                     <LineChart data={testingData} margin={{top: 50, right: 50, left: 20, bottom: 5}}>
                         <CartesianGrid strokeDasharray="3 3" />
                         <XAxis dataKey="date" />
