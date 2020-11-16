@@ -13,5 +13,6 @@ export const testingData = [
     {date: '11-12-2020', cases: 1575, tests: 39559, positivity: 3.98},
     {date: '11-13-2020', cases: 1396, tests: 40509, positivity: 3.44},
     {date: '11-14-2020', cases: 1581, tests: 44837, positivity: 3.53},
-    {date: '11-15-2020', cases: 1248, tests: 42206, positivity: 2.96}
+    {date: '11-15-2020', cases: 1248, tests: 42206, positivity: 2.96},
+    {date: '11-16-2020', cases: 1487, tests: 33351, positivity: 4.46}
 ]
