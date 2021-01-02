@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80c4e40c3211b778aa270eee69266504",
+    "revision": "6d22c80e2616dc62543157e81693b5e2",
     "url": "/COVID19-React-Ontario/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/COVID19-React-Ontario/static/js/2.edf3e644.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16b90272c92268d1d569",
-    "url": "/COVID19-React-Ontario/static/js/main.23ae70cf.chunk.js"
+    "revision": "b1c3652bdd6d955e4d98",
+    "url": "/COVID19-React-Ontario/static/js/main.dc8db96e.chunk.js"
   },
   {
     "revision": "58da3d515d73a75e509e",
