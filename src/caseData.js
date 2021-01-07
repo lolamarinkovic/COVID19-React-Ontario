@@ -331,5 +331,6 @@ export const caseData = [
     {cases: 2964, date: '01-03-2021'},
     {cases: 3270, date: '01-04-2021'},
     {cases: 3128, date: '01-05-2021'},
-    {cases: 3266, date: '01-06-2021'}
+    {cases: 3266, date: '01-06-2021'},
+    {cases: 3519, date: '01-07-2021'}
 ]
