@@ -79,5 +79,6 @@ export const testingData = [
     {date: '01-17-2021', cases: 3422, tests: 60183, positivity: 5.70},
     {date: '01-18-2021', cases: 2578, tests: 40301, positivity: 6.40},
     {date: '01-19-2021', cases: 1913, tests: 34531, positivity: 5.54},
-    {date: '01-20-2021', cases: 2655, tests: 54307, positivity: 4.89}
+    {date: '01-20-2021', cases: 2655, tests: 54307, positivity: 4.89},
+    {date: '01-21-2021', cases: 2632, tests: 70256, positivity: 3.75}
 ]
