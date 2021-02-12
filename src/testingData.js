@@ -101,5 +101,6 @@ export const testingData = [
     {date: '02-08-2021', cases: 1265, tests: 28303, positivity: 4.50},
     {date: '02-09-2021', cases: 1022, tests: 30798, positivity: 3.32},
     {date: '02-10-2021', cases: 1072, tests: 52504, positivity: 2.04},
-    {date: '02-11-2021', cases: 945, tests: 68812, positivity: 1.40}
+    {date: '02-11-2021', cases: 945, tests: 68812, positivity: 1.40},
+    {date: '02-12-2021', cases: 1076, tests: 62012, positivity: 1.74}
 ]
