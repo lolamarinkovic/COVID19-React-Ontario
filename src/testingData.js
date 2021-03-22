@@ -127,5 +127,18 @@ export const testingData = [
     {date: '03-06-2021', cases: 990, tests: 57829, positivity: 1.71},
     {date: '03-07-2021', cases: 1299, tests: 46586, positivity: 2.80},
     {date: '03-08-2021', cases: 1631, tests: 38063, positivity: 4.29},
-    {date: '03-09-2021', cases: 1185, tests: 33264, positivity: 3.56}
+    {date: '03-09-2021', cases: 1185, tests: 33264, positivity: 3.56},
+    {date: '03-10-2021', cases: 1316, tests: 54149, positivity: 2.43},
+    {date: '03-11-2021', cases: 1092, tests: 60619, positivity: 1.80},
+    {date: '03-12-2021', cases: 1371, tests: 64611, positivity: 2.12},
+    {date: '03-13-2021', cases: 1468, tests: 58431, positivity: 2.51},
+    {date: '03-14-2021', cases: 1747, tests: 47618, positivity: 3.67},
+    {date: '03-15-2021', cases: 1268, tests: 33975, positivity: 3.73},
+    {date: '03-16-2021', cases: 1074, tests: 28526, positivity: 3.76},
+    {date: '03-17-2021', cases: 1508, tests: 49128, positivity: 3.07},
+    {date: '03-18-2021', cases: 1553, tests: 58560, positivity: 2.65},
+    {date: '03-19-2021', cases: 1745, tests: 56134, positivity: 3.11},
+    {date: '03-20-2021', cases: 1829, tests: 52083, positivity: 3.51},
+    {date: '03-21-2021', cases: 1791, tests: 49233, positivity: 3.64},
+    {date: '03-22-2021', cases: 1699, tests: 31089, positivity: 5.46}
 ]
