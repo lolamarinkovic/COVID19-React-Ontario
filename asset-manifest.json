@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/COVID19-React-Ontario/static/js/main.669a1217.chunk.js",
-    "main.js.map": "/COVID19-React-Ontario/static/js/main.669a1217.chunk.js.map",
+    "main.js": "/COVID19-React-Ontario/static/js/main.4f0806e1.chunk.js",
+    "main.js.map": "/COVID19-React-Ontario/static/js/main.4f0806e1.chunk.js.map",
     "runtime-main.js": "/COVID19-React-Ontario/static/js/runtime-main.0d58c86f.js",
     "runtime-main.js.map": "/COVID19-React-Ontario/static/js/runtime-main.0d58c86f.js.map",
     "static/js/2.6619e194.chunk.js": "/COVID19-React-Ontario/static/js/2.6619e194.chunk.js",
     "static/js/2.6619e194.chunk.js.map": "/COVID19-React-Ontario/static/js/2.6619e194.chunk.js.map",
     "index.html": "/COVID19-React-Ontario/index.html",
-    "precache-manifest.fe97ba05b440a2f10264ce1065202686.js": "/COVID19-React-Ontario/precache-manifest.fe97ba05b440a2f10264ce1065202686.js",
+    "precache-manifest.72b582d0caeae22f8ce20db39b86bd1d.js": "/COVID19-React-Ontario/precache-manifest.72b582d0caeae22f8ce20db39b86bd1d.js",
     "service-worker.js": "/COVID19-React-Ontario/service-worker.js",
     "static/js/2.6619e194.chunk.js.LICENSE.txt": "/COVID19-React-Ontario/static/js/2.6619e194.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0d58c86f.js",
     "static/js/2.6619e194.chunk.js",
-    "static/js/main.669a1217.chunk.js"
+    "static/js/main.4f0806e1.chunk.js"
   ]
 }
