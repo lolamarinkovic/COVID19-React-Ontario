@@ -144,5 +144,20 @@ export const testingData = [
     {date: '03-23-2021', cases: 1546, tests: 32556, positivity: 4.75},
     {date: '03-24-2021', cases: 1571, tests: 51962, positivity: 3.02},
     {date: '03-25-2021', cases: 2380, tests: 60077, positivity: 3.96},
-    {date: '03-26-2021', cases: 2169, tests: 53436, positivity: 4.06}
+    {date: '03-26-2021', cases: 2169, tests: 53436, positivity: 4.06},
+    {date: '03-27-2021', cases: 2453, tests: 61005, positivity: 4.02},
+    {date: '03-28-2021', cases: 2448, tests: 50227, positivity: 4.87},
+    {date: '03-29-2021', cases: 2094, tests: 39470, positivity: 5.31},
+    {date: '03-30-2021', cases: 2336, tests: 36071, positivity: 6.48},
+    {date: '03-31-2021', cases: 2333, tests: 52532, positivity: 4.44},
+    {date: '04-01-2021', cases: 2557, tests: 62290, positivity: 4.10},
+    {date: '04-02-2021', cases: 3089, tests: 62333, positivity: 4.96},
+    {date: '04-03-2021', cases: 3009, tests: 59117, positivity: 5.09},
+    {date: '04-04-2021', cases: 3041, tests: 46380, positivity: 6.56},
+    {date: '04-05-2021', cases: 2938, tests: 36563, positivity: 8.04},
+    {date: '04-06-2021', cases: 3065, tests: 37541, positivity: 8.16},
+    {date: '04-07-2021', cases: 3215, tests: 49889, positivity: 6.44},
+    {date: '04-08-2021', cases: 3295, tests: 64846, positivity: 5.16},
+    {date: '04-09-2021', cases: 4227, tests: 61413, positivity: 6.88}
+
 ]
